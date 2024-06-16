@@ -7,7 +7,7 @@
 
 - ⚡ **Programmer | Web Developer | Machine Learning Enthusiast | Tech Innovator | Problem Solver**
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/akshay-ks-312133292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-ks-312133292" height="30" width="40" /></a>
 <a href="https://instagram.com/_akshay._.13_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshay._.13_" height="30" width="40" /></a>
