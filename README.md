@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay KS</h1>
 <h3 align="center">🎓 I'm currently a second-year student at Amrita Vishwa Vidyapeetham, pursuing a degree in Computer Science and Engineering.</h3>
-<div style="width:100 %;">
-  <img style="width:100 %;" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"         align="center">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="center">
 
 - ❤️ I love to **learn, code, solve problems, and innovate.**
 
