@@ -1,27 +1,127 @@
 <h1 align="center">Hi 👋, I'm Akshay KS</h1>
 <h3 align="center">🎓 I'm currently a second-year student at Amrita Vishwa Vidyapeetham, pursuing a degree in Computer Science and Engineering.</h3>
-<img style="width: 100%;" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img align="center" style="width: 100%;" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
-- ❤️ I love to **learn, code, solve problems, and innovate.**
+---
 
-- 📫 How to reach me **akshayks1005@gmail.com**
+## About Me
 
-- ⚡ **Programmer | Web Developer | Machine Learning Enthusiast | Tech Innovator | Problem Solver**
+- 🚀 Passionate Programmer | Developer by Passion | Web Dev | AI-ML Enthusiast | Devops
+- 🧠 I love to **learn, code, solve problems, and innovate.**
+- 🌐 Portfolio coming soon... stay tuned!
+- 📈 Into DSA, problem solving & Competitive Programming 
+- ✨ Always curious | Detail-oriented | Big picture thinker
+- 💌 Reach me at: **[akshayks1005@gmail.com](mailto:akshayks1005@gmail.com)**
 
-# 💻 Connect With Me:
-<p align="left">
-<a href="https://linkedin.com/in/akshay-ks-312133292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-ks-312133292" height="30" width="40" /></a>
-<a href="https://instagram.com/_akshay._.13_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshay._.13_" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/akshayks1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshayks1005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshayks2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaykscodes" height="30" width="40" /></a> -->
-</p>
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshayks13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshayks13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayks13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Programming Languages & Frameworks  
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=py" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=go" title="Go"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React.js"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=next" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=electron" title="Electron"/>
+  <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js"/>
+  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
+</div>
+
+---
+
+### 🛠️ Development Tools & Technologies  
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=apple" title="MacOS"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+  <img src="https://skillicons.dev/icons?i=notion" title="Notion"/>
+</div>
+
+---
+
+### Reach out to me
+<a href="https://linkedin.com/in/akshay-ks-312133292" target="_blank">
+  <img height="48" width="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/_akshay._.13_" target="_blank">
+  <img height="48" width="48" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="mailto:akshayks1005@gmail.com" target="_blank">
+  <img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" alt="Gmail" />
+</a>
+
+---
+
+## GitHub Contributions Graph
+
+[![Akshay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayks13&theme=github-dark)](https://github.com/akshayks13)
+
+---
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akshayks13&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Akshay's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayks13&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayks13&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Recent Badges
+
+[![An image of @akshay_ks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshay_ks)](https://holopin.io/@akshay_ks)
+
+- `Google Cloud Skills Boost` : Check out my [Google Cloud Skills Boost Badges](https://www.cloudskillsboost.google/profile/badges) to see what I've been learning and building in cloud technologies! <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" height="20" />
 
 ---
 
