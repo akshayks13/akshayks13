@@ -1,6 +1,8 @@
+<img src="assets/github_banner.png" width="100%" alt="GitHub Banner"/>
+
 <h1 align="center">Hi 👋, I'm Akshay KS</h1>
 <h3 align="center">🎓 I'm currently a second-year student at Amrita Vishwa Vidyapeetham, pursuing a degree in Computer Science and Engineering.</h3>
-<img align="center" style="width: 100%;" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img align="center" style="width: 100%;" src="assets/Githubgif.gif">
 
 ---
 
@@ -15,7 +17,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"> Programming Languages & Frameworks
+### <img src="assets/skills_img.gif" width="25px"> Programming Languages & Frameworks
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
@@ -46,7 +48,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px">  Development Tools & Technologies  
+### <img src="assets/skills_img.gif" width="25px">  Development Tools & Technologies  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
