@@ -15,7 +15,7 @@
 
 ---
 
-### Programming Languages & Frameworks  
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"> Programming Languages & Frameworks
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Development Tools & Technologies  
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px">  Development Tools & Technologies  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
