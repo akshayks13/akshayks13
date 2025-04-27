@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Akshay KS</h1>
 <h3 align="center">🎓 I'm currently a second-year student at Amrita Vishwa Vidyapeetham, pursuing a degree in Computer Science and Engineering.</h3>
-<img align="center" style="width: 100%;" src="assets/Githubgif.gif">
+<p align="center">
+  <img src="assets/Githubgif.gif" style="max-width:100%; height:auto;" />
+</p>
 
 ---
 
