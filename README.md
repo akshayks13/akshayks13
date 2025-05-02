@@ -46,6 +46,7 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
+  <img src="https://skillicons.dev/icons?i=md" title="Markdown"/>
 </div>
 
 ---
@@ -57,11 +58,14 @@
   <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+   <img src="https://skillicons.dev/icons?i=npm" title="npm"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="Sqlite"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=apple" title="MacOS"/>
@@ -75,9 +79,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
   <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
   <img src="https://skillicons.dev/icons?i=notion" title="Notion"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian"/>
 </div>
 
 ---
