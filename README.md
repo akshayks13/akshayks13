@@ -1,7 +1,7 @@
 <img src="assets/github_banner.png" width="100%" alt="GitHub Banner"/>
 
 <h1 align="center">Hi 👋, I'm Akshay KS</h1>
-<h3 align="center">🎓 I'm currently a second-year student at Amrita Vishwa Vidyapeetham, pursuing a degree in Computer Science and Engineering.</h3>
+<h3 align="center">🎓 I'm currently a third-year student at Amrita Vishwa Vidyapeetham, pursuing a degree in Computer Science and Engineering.</h3>
 <p align="center">
   <img src="assets/Githubgif.gif" style="max-width:100%; height:auto;" />
 </p>
@@ -10,11 +10,12 @@
 
 ## About Me
 
-- 🚀 Passionate Programmer | Developer by Passion | Web Dev | AI-ML Enthusiast | Devops
-- 🧠 I love to **learn, code, solve problems, and innovate.**
+- 🚀 Passionate Programmer | Web Dev | AI-ML Enthusiast | Devops |
+- 🧠 I love to **`learn, code, solve problems, and innovate.`**
+- 📈 Into problem solving & Competitive Programming 
+- ✨ Constantly learning, iterating, and evolving
+- 🍩 Powered by coffee and curiosity
 - 🌐 Portfolio coming soon... stay tuned!
-- 📈 Into DSA, problem solving & Competitive Programming 
-- ✨ Always curious | Detail-oriented | Big picture thinker
 - 💌 Reach me at: **[akshayks1005@gmail.com](mailto:akshayks1005@gmail.com)**
 
 ---
