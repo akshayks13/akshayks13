@@ -12,7 +12,7 @@
 
 - 🚀 Passionate Programmer | Web Dev | AI-ML Enthusiast | Devops 
 - 🧠 I love to **`learn, code, solve problems, and innovate.`**
-- 📈 Into problem **`solving & Competitive Programming`**
+- 📈 Into **`problem solving & Competitive Programming`**
 - ✨ Constantly learning, iterating, and evolving
 - 🍩 Powered by coffee and curiosity
 - 🌐 Portfolio coming soon... stay tuned!
