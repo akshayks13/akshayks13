@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter"/>
   <img src="https://skillicons.dev/icons?i=dart" title="Dart"/>
   <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
-  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=react" title="React.js"/>
   <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
@@ -76,7 +76,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
