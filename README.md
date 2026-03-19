@@ -15,7 +15,7 @@
 - 📈 Into **`problem solving & Competitive Programming`**
 - ✨ Constantly learning, iterating, and evolving
 - 🍩 Powered by coffee and curiosity
-- 🌐 Portfolio coming soon... stay tuned!
+- 🌐 Portfolio: <a href="https://akshayks13.vercel.app/" target="_blank">View my portfolio</a>
 - 💌 Reach me at: **[akshayks1005@gmail.com](mailto:akshayks1005@gmail.com)**
 
 ---
