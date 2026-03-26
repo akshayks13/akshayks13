@@ -112,18 +112,17 @@
 <table>
   <tr>
     <td>
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=akshayks13&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Akshay's GitHub Stats"/> -->
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=akshayks13&show_icons=true&theme=github_dark" alt="Akshay's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=akshayks13&show_icons=true&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&count_private=true" />
+      <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=akshayks13&show_icons=true&theme=github_dark" alt="Akshay's GitHub Stats"/> -->
     </td>
     <td>
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayks13&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> -->
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=akshayks13&theme=github_dark" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayks13&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=30363d&currStreakNum=ffffff&sideNums=ffffff" />
+      <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=akshayks13&theme=github_dark" alt="GitHub Streak"/> -->
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayks13&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/> -->
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akshayks13&layout=compact&theme=github_dark" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayks13&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
     </td>
   </tr>
 </table>
