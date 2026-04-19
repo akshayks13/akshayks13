@@ -90,13 +90,16 @@
 
 ### Reach out to me
 <a href="https://linkedin.com/in/akshay-ks-312133292" target="_blank">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <!-- <img height="48" width="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> -->
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/_akshay._.13_" target="_blank">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <!-- <img height="48" width="48" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> -->
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 <a href="mailto:akshayks1005@gmail.com" target="_blank">
-  <img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" alt="Gmail" />
+  <!-- <img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" alt="Gmail" /> -->
+  <img src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" alt="Gmail" />
 </a>
 
 ---
