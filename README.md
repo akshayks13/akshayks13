@@ -23,11 +23,13 @@
 
 <img align="right" src="assets/code.jpeg" width="320" alt="Laptop plus coffee equals code" />
 
-- Third-year Computer Science and Engineering student.
-- Passionate about full-stack development, AI/ML, DevOps, and competitive programming.
-- I like turning ideas into useful products with readable code and smooth user experiences.
-- Always learning, experimenting, and improving through projects and problem solving.
-- Powered by coffee, curiosity, and the occasional late-night debugging session.
+- 🚀 **Passionate Programmer** | **Web Dev** | **AI-ML Enthusiast** | **DevOps Explorer**
+- 🎯 Focused on building **scalable web apps**, exploring **intelligent systems**, and sharpening my engineering fundamentals
+- 🧠 I love to **`learn, code, solve problems, and innovate.`**
+- 📈 Into **`problem solving & Competitive Programming`**
+- ✨ **Constantly learning, iterating, and evolving**
+- 🛠️ Building practical projects with **clean code**, **useful design**, and **smooth user experiences**
+- 🍩 Powered by **coffee and curiosity**
 
 <br clear="right" />
 
