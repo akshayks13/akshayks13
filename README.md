@@ -159,7 +159,5 @@ I also explore cloud technologies through Google Cloud Skills Boost:
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=akshayks13&icon=0&color=0" alt="Profile visit count" />
-  </a>
+  ![](https://komarev.com/ghpvc/?username=akshayks13&style=flat-square&color=58a6ff)
 </p>
