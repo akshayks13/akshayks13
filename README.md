@@ -157,7 +157,3 @@ I also explore cloud technologies through Google Cloud Skills Boost:
 <p align="center">
   <em>"Stay hungry, stay foolish."</em>
 </p>
-
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=akshayks13&style=flat-square&color=58a6ff)
-</p>
